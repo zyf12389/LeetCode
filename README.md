@@ -1,3 +1,3 @@
 # LeetCode
 
-personal algorithmic records
+personal algorithmic records(leetcode)
